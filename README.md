@@ -4,7 +4,7 @@ by Axel DE SOUSA, ID student :
 
 "Basic Rust”
 
-Description
+Description :
 
 You are a naked man in a lost valley. They have only some trees, rocks and a
 river near to you.
@@ -14,7 +14,7 @@ You can collect wood, stone, leave, water and raw meat.
 You can craft a camp fire, clothes, cooking meat and potable water.
 You can move into the valley for search resources.
 
-Game Run
+Game Run :
 
 You start the game with 10point of life on 10, 6point of hunger on 6 and 6point
 of thirst on 6.
@@ -30,18 +30,18 @@ basic clothes.
 During whole your action, time past and temperature decrease or increase as a
 function of the time, and your life, hunger and thirst decrease too.
 
-Game World
+Game World :
 
 Resources
 Wood, stone, water, raw meat, leave
 
 Craft
-Camp fire = wood + stone |
-Cooking Meat = camp fire + raw meat + time |
-Potable Water = camp fire + water + time |
+Camp fire = wood + stone,
+Cooking Meat = camp fire + raw meat + time,
+Potable Water = camp fire + water + time,
 Clothes = leave + wood + time
 
-Game Rules
+Game Rules :
 
 The time and temperature affect your health, so you can’t doing nothing. You
 need all time search basic resources for craft healthy stuff. And each action
