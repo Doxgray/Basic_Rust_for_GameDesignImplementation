@@ -36,9 +36,9 @@ Resources
 Wood, stone, water, raw meat, leave
 
 Craft
-Camp fire = wood + stone
-Cooking Meat = camp fire + raw meat + time
-Potable Water = camp fire + water + time
+Camp fire = wood + stone |
+Cooking Meat = camp fire + raw meat + time |
+Potable Water = camp fire + water + time |
 Clothes = leave + wood + time
 
 Game Rules
