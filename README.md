@@ -2,6 +2,9 @@
 Basic game implementation for TD of GameD&amp;I at BJTU
 by Axel DE SOUSA, ID student : 15129087
 
+basicrust_code.c file in branch is a basic implementation of the game play,
+you can read it for have an other approach of the game. 
+
 "Basic Rust”
 
 Description :
