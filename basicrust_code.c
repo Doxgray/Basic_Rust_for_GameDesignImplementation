@@ -1,12 +1,12 @@
 /*This is a basic implementation of the game play, with some basics functions
 All actions are threaded for haven't blocked actions between player and
 environement
-by Axel DE SOUSA, Student ID : */
+by Axel DE SOUSA, Student ID : 15129087*/
 
 life = 10/10;
 hunger = 6/6;
 thirst = 6/6;
-temperature = 15°;
+temperature = 15°C;
 time = 12/24;
 
 while (!Quit)
@@ -38,7 +38,7 @@ while (!Quit)
 		if (temperature < 10°C) [Thread]
 			{
 				SearchLeaves();
-				CraftClothes(leave, wood, time++);
+				CraftClothes(leaves, wood, time++);
 				DressClothes(temperature++);
 			}
 		else
@@ -52,11 +52,11 @@ while (!Quit)
 			{
 				time++;
 				if (time == 25)
-						time = 1;
+					time = 1;
 				if (time >= 20 || time <= 8)
-						temperature--;
+					temperature--;
 				else
-						temperature++;
+					temperature++;
 				life--;
 				hunger--;
 				thirst--;
