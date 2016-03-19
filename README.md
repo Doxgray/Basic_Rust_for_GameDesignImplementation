@@ -17,6 +17,12 @@ You can collect wood, stone, leaves, water and raw meat.
 You can craft a camp fire, clothes, cooking meat and potable water.
 You can move into the valley for search resources.
 
+Target and Aim :
+
+The actual target is young player between 8 and 14 years old. But the aim target
+is 8-25 years old, with a implementation of a multiplayer game mod with more content
+like weapons, social part, built home.
+
 Game Run :
 
 You start the game with 10 point of life on 10, 6 point of hunger on 6 and 6 point
