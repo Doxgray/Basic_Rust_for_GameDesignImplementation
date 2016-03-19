@@ -21,7 +21,7 @@ Target and Aim :
 
 The actual target is young player between 8 and 14 years old. But the aim target
 is 8-25 years old, with a implementation of a multiplayer game mod with more content
-like weapons, social part, built home.
+like weapons, social part, build home.
 
 Game Run :
 
